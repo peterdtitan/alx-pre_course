@@ -1,1 +1,0 @@
-Directory for all bash related projects and tasks
